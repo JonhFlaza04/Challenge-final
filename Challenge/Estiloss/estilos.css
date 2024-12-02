@@ -1,0 +1,77 @@
+.container{
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  max-width: 300px;
+  text-align: center;
+
+}
+
+.container-two{
+  background-color: aqua;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  max-width: 300px;
+  text-align: center;
+
+}
+.container-three{
+  background-color: aqua;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  max-width: 300px;
+  text-align: center;
+
+}
+
+.titulo{
+  background-color: aqua;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  max-width: 300px;
+  text-align: center;
+
+}
+
+.dropdown-menu{
+  background-color:rgba(197, 248, 250, 0.916);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  max-width: 300px;
+}
+
+.collapse-navbar-collapse{
+  background-color:rgba(87, 215, 217, 0.889);
+  text-align: center; 
+
+}
+
+.container-fluid{
+  background-color:rgba(214, 218, 218, 0.779);
+  text-align: center; 
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 5px;
+ 
+
+
+}
+
+body{
+background-color:rgb(212, 245, 245);
+
+}
+
+.texto1{
+font-style: italic;
+text-align: justify;
+
+}
+.navbar{
+  width: 100%;
+}
